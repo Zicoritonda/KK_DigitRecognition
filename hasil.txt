@@ -1,0 +1,24 @@
+sgd: 10 epoch => 97.76%
+adam: 10 epoch => 98.27%
+adadelta: 10 epoch => 87.90%
+adagrad: 10 epoch => 95.25%
+
+sgd: 20 epoch => 98.10%
+adam: 20 epoch => 98.37%
+adadelta: 20 epoch => 87.90% (-)
+adagrad: 20 epoch => 95.25% (-)
+
+sgd: 30 epoch => 98.45%
+adam: 30 epoch => 98.29%
+adadelta: 30 epoch => 87.90% (-)
+adagrad: 30 epoch => 95.25% (-)
+
+sgd: 40 epoch => 98.40%
+adam: 40 epoch => 98.59%
+adadelta: 40 epoch => 87.90% (-)
+adagrad: 40 epoch => 95.25% (-)
+
+sgd: 50 epoch => 98.40%
+adam: 50 epoch => 98.52%
+adadelta: 50 epoch => 87.90% (-)
+adagrad: 50 epoch => 95.25% (-)
